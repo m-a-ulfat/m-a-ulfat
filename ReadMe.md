@@ -1,7 +1,4 @@
-<!-- ============================================================
-  GitHub profile README: Muhammad Asamullah Ulfat
-  Save as README.md in your repository named exactly:  m-a-ulfat
-============================================================= -->
+
 
 <div align="center">
 
