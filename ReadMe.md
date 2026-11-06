@@ -21,21 +21,111 @@
 </div>
 
 
-# 💫 About Me:
-🔭 **Currently Working On:** Developing data-driven solutions, Machine Learning models, interactive Power BI dashboards, and analytical reporting at Akhuwat Islamic Microfinance, supporting operational efficiency and data-driven decision-making for the Apni Chhat Apna Ghar (ACAG) project and many other projects.<br><br>👯 **Looking to Collaborate On:** Data Analytics, Business Intelligence, Machine Learning, Predictive Analytics, and applied Artificial Intelligence projects that address real-world challenges.<br><br>🤝 **Looking for Help With:** Advanced Machine Learning algorithms, statistical modelling, feature engineering, model optimization, deployment, and scalable AI solutions.<br><br>🌱 **Currently Learning:** Advanced Python, Machine Learning, Statistical Analysis, Predictive Modelling, Artificial Intelligence, and German.<br><br>💬 **Ask Me About:** Python, SQL, Power BI, Microsoft Excel, Tableau, Machine Learning, Data Preprocessing, Exploratory Data Analysis (EDA), Data Visualization, Dashboard Development, MIS Reporting, and Data Quality Assurance.<br><br>⚡ **Fun Fact:** I enjoy bridging the gap between data analytics and artificial intelligence by transforming complex datasets into predictive insights and practical solutions for real-world problems.
 
+# 👋 Hi, I'm M. Asamullah Ulfat
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100086778335996) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/m.a.ulaft/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/m-a-ulfat/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@m.a.ulfat1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/MAUlfat7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.a.ulfat7@gmail.com) 
+### 📊 Data Analyst | Data Scientist | Machine Learning Practitioner
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=for-the-badge&logo=CrateDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=m-a-ulfat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=m-a-ulfat&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=m-a-ulfat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I am a Data Analyst passionate about transforming complex datasets into actionable insights, predictive models, and intelligent business solutions.
+
+Currently working at **Akhuwat Islamic Microfinance**, developing data-driven solutions, Machine Learning models, interactive Power BI dashboards, and analytical reporting to support operational efficiency and strategic decision-making, including the **Apni Chhat Apna Ghar (ACAG) project**.
+
+My interests include Data Analytics, Business Intelligence, Statistical Modelling, Predictive Analytics, Machine Learning, and Artificial Intelligence.
 
 ---
-[![](https://komarev.com/ghpvc/?username=m-a-ulfat&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+🔭 **Currently Working On:** Developing analytical solutions, Machine Learning models, interactive Power BI dashboards, and business intelligence reports to improve operational performance and data-driven decision-making.
+
+👯 **Looking to Collaborate On:** Data Analytics, Business Intelligence, Machine Learning, Predictive Analytics, and Applied AI projects that solve real-world problems.
+
+🤝 **Interested in Exploring:** Advanced Machine Learning algorithms, feature engineering, statistical modelling, model optimization, deployment, and scalable AI solutions.
+
+🌱 **Currently Learning:** Advanced Python, Machine Learning, Statistical Analysis, Predictive Modelling, Artificial Intelligence, and German.
+
+💬 **Ask Me About:** Python, SQL, Power BI, Microsoft Excel, Tableau, Machine Learning, Exploratory Data Analysis (EDA), Data Preprocessing, Data Visualization, Dashboard Development, MIS Reporting, and Data Quality Assurance.
+
+⚡ **My Philosophy:** Turning raw data into meaningful insights, insights into intelligence, and intelligence into impactful decisions.
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-a-ulfat/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-a-ulfat)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2E8B57?style=for-the-badge&logo=googlechrome&logoColor=white)](https://m-a-ulfat-portfolio.netlify.app)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.a.ulfat7@gmail.com)
+
+---
+
+## 💻 Technical Skills & Technologies
+
+### 🐍 Programming & Data Analysis
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🤖 Data Science & Machine Learning
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+### 📈 Business Intelligence & Data Visualization
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+### 🗄️ Databases, Frameworks & Tools
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=m-a-ulfat&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=m-a-ulfat&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-a-ulfat&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Areas of Interest
+
+- Data Analytics & Business Intelligence
+- Machine Learning & Artificial Intelligence
+- Predictive Analytics & Statistical Modelling
+- Data Visualization & Dashboard Development
+- Data-Driven Decision Intelligence
+
+---
+
+<p align="center">
+  <i>"Transforming data into insights, insights into intelligence, and intelligence into impact."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=m-a-ulfat&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
