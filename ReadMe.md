@@ -50,15 +50,6 @@ My interests include Data Analytics, Business Intelligence, Statistical Modellin
 
 ---
 
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-a-ulfat/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-a-ulfat)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2E8B57?style=for-the-badge&logo=googlechrome&logoColor=white)](https://m-a-ulfat-portfolio.netlify.app)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.a.ulfat7@gmail.com)
-
----
-
 ## 💻 Technical Skills & Technologies
 
 ### 🐍 Programming & Data Analysis
