@@ -1,9 +1,4 @@
-<!-- ============================================================
-  GitHub profile README: M. A. Ulfat | Data Analyst & Data Scientist
-  Save as README.md in your repo named exactly: m-a-ulfat
-  Lines marked  <!-- EDIT -->  are the ones you should personalise.
-============================================================= -->
-
+ 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=M.%20A.%20Ulfat&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20Data%20Scientist&descSize=20&descAlignY=58" alt="header" />
